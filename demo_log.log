@@ -1,0 +1,27 @@
+New thread for existing assistant_id
+{'id': 'msg_9nDJrmh5WcDJ6kYznCw7N85R', 'assistant_id': None, 'content': [{'text': {'annotations': [], 'value': '\nTechnician Job Summary\nWe are seeking a technician who will manage, direct, and install electrical wiring and installation for all building projects. In this position, you will work with contractors, builders, and architects, and will install and maintain electrical wiring systems, circuitry, and follow safety practices and standards codes to meet high-quality standards. You will review and compare pricing, document materials needed and used, and track changes to plans.\n\nTechnician Duties and Responsibilities\nMonitor and analyze electrical systems\nCollaborate with architects and engineers to determine the best placement of electrical wiring\nTest devices for improvement, safety, and quality control\nUpdate older electrical systems for changes, cost reductions, improvements, safety, and quality control\nRepair broken equipment and wiring\nReview architectural plans\nPerform and analyze tests to track results and make improvements\nWork with builders and make recommendations\nPerform calibrations for wire placement and electronic components\nResponsible for all required electrical qualification tests on projects and ensure compliance with all outside parties involved\nParticipate in test runs and meet safety regulations\nModify systems to be environmentally friendly\nTechnician Requirements and Qualifications\nAble to multitask, prioritize, and manage time efficiently\nExcellent verbal and written communication skills\nCreative problem solver who thrives when presented with a challenge\nAble to analyze problems and strategize for better solutions\nFlexible and able to multitask on several different aspects of a project or on multiple projects\nAble to take initiative to recommend projects, product improvements, or cost reductions\nIn-depth understanding of electrical regulations, construction, materials, and industry\nStrict attention to detail\nTechnical school degree and certification for technicians; license as required by state\nFour to five years of experience as a technician, technician apprentice, or relevant work experience\nProficient computer skills, Microsoft Office Suite (Word, PowerPoint, Outlook, and Excel)\nExcellent communicator; able to understand instructions and communicate effectively\nKnowledge of local, state, and federal property and safety regulations\nStrong mathematical and technical skills\n'}, 'type': 'text'}], 'created_at': 1704301564, 'file_ids': [], 'metadata': {}, 'object': 'thread.message', 'role': 'user', 'run_id': None, 'thread_id': 'thread_wZt0ZZa7Fc1YyeoVHFmN8Akh'}
+Got response: Would you prefer a comprehensive list of tailored questions or a single question at a time?
+Playing recognized text back...
+Saving the converted audio in a mp3 file named
+Playing the converted file
+Available microphones:
+['Microsoft Sound Mapper - Input', 'Microphone (Logitech....']
+Adjusting noise...
+Recording for 10 seconds...
+Done recording.
+Recognizing the text...
+Decoded Text: could you please provide the top three questions thank you
+Got response: Certainly! Here are the top three questions for the Technician position:
+
+1. Can you describe your experience in managing, directing, and installing electrical wiring and systems for building projects? Please provide specific examples of projects you have worked on.
+
+2. How do you ensure compliance with electrical regulations, construction standards, and safety practices in your work? Can you provide an example where you had to make modifications to meet these requirements?
+
+3. Tell us about a time when you encountered a complex electrical problem or challenge. How did you analyze the situation and come up with a solution? What were the results?
+
+These questions will help assess the candidate's experience, problem-solving skills, and ability to meet regulatory and safety standards.
+Playing recognized text back...
+Saving the converted audio in a mp3 file named
+Playing the converted file
+
+Process finished with exit code 0
